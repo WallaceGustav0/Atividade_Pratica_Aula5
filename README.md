@@ -16,15 +16,15 @@ Os dados são armazenados temporariamente em memória.
 ## Estrutura
 
 api_chamados/
-├── .venv/
+    ├── .venv/
 
-├── main.py
+    ├── main.py
 
-├── capturas_tela/
+    ├── capturas_tela/
 
-├── requirements.txt
+    ├── requirements.txt
 
-└── README.md
+    └── README.md
 
 ## Como executar
 
