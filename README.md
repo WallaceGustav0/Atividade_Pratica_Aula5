@@ -17,9 +17,13 @@ Os dados são armazenados temporariamente em memória.
 
 api_chamados/
 ├── .venv/
+
 ├── main.py
+
 ├── capturas_tela/
+
 ├── requirements.txt
+
 └── README.md
 
 ## Como executar
