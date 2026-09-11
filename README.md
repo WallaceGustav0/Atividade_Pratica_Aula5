@@ -15,7 +15,6 @@ Os dados são armazenados temporariamente em memória.
 
 ## Estrutura
 
-api_chamados/
 
     ├── .venv/
     ├── main.py
